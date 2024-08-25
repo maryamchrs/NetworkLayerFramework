@@ -14,8 +14,6 @@ Network Reachability: Built-in support to monitor and check network reachability
 # Usage
 In the project file, you will find a file named NetworkLayer.xcframework. You should drag and drop this file into your project. Then, navigate to your target's settings under General -> Frameworks, Libraries, and Embedded Content, ensure this framework is listed, and set its status to Embed & Sign.
 
-The other files are included for those who want to learn how to create a network layer. They can review the code instead of just using the pre-built framework.
-
 Then you should follow these steps:
  
 - First Step:
